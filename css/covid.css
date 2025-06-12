@@ -1,0 +1,81 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+}
+
+.textprincipal {
+    color: green;
+    font-size: 40px;
+    margin-top: 20px;
+}
+
+.imagem-principal {
+    width: 200px;
+    height: auto;
+    margin-top: 10px;
+}
+
+.formulario {
+    margin: 20px auto;
+    width: 400px;
+}
+
+.textnome, .textidade, .textsexo, .texttemp, .textori {
+    text-align: left;
+    margin-left: 20px;
+}
+
+.inputnome, .inputidade, .inputsexo, .inputtemp, .inputori {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 8px;
+}
+
+.botoes {
+    margin: 20px auto;
+}
+
+.button1, .button-grava, .button-resumo, .button-lista {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.estatisticas {
+    margin-top: 30px;
+    border: 2px solid white;
+    width: 300px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imagens-bandeiras {
+    margin-top: 30px;
+}
+
+.img {
+    width: 50px;
+    height: auto;
+    margin: 0 10px;
+}
+
+.imagem-covid {
+    width: 200px;
+    height: auto;
+    margin-top: 20px;
+}
+.modal-text {
+    color: black;
+    background-color: white;
+  }
